@@ -1,0 +1,27 @@
+// use in console application
+
+using System;
+
+namespace Exception_Handling
+{
+    class Programint
+    {
+        static void Main(string[] args)
+        {
+            try { 
+            Console.WriteLine("Enter first number: ");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter second number: ");
+            int y = int.Parse(Console.ReadLine());
+
+            int z = x / y;
+            Console.WriteLine("Answer is "+ z);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
+        }
+    }
+}
