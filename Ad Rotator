@@ -1,0 +1,11 @@
+WebForm1.aspx.cs"
+<?xml version="1.0" encoding="utf-8" ?>
+XMLFileLam
+<Advertisements>
+<Ad>
+WebForm1.aspx
+<ImageUrl>computer.jpg</ImageUrl> <NavigateUrl></NavigateUrl>
+<AlternateText>computer</AlternateText>
+<Impressions>50</Impressions> <Keyword>Computer</Keyword>
+</Ad>
+</Advertisements>
